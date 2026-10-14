@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OpenEdCore/.github/main/assets/banner.jpg" alt="OpenEdCore Ecosystem Banner" width="100%" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/OpenEdCore-Technologies/.github/main/assets/banner.jpg" alt="OpenEdCore Technologies Ecosystem Banner" width="100%" style="border-radius: 12px;" />
 </p>
 
 <p align="center">
@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://openedschool.com"><img src="https://img.shields.io/badge/Production-openedschool.com-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Production Portal" /></a>
   <a href="https://staging.openedschool.com"><img src="https://img.shields.io/badge/Staging-staging.openedschool.com-0d9488?style=for-the-badge&logo=render&logoColor=white" alt="Staging Preview" /></a>
-  <a href="https://github.com/OpenEdCore"><img src="https://img.shields.io/badge/Security-CodeQL_Verified-10b981?style=for-the-badge&logo=github&logoColor=white" alt="CodeQL Verified" /></a>
-  <a href="https://github.com/OpenEdCore"><img src="https://img.shields.io/badge/Architecture-Multi--Tenant_Cloud-8b5cf6?style=for-the-badge&logo=swift&logoColor=white" alt="Multi Tenant" /></a>
+  <a href="https://github.com/OpenEdCore-Technologies"><img src="https://img.shields.io/badge/Security-CodeQL_Verified-10b981?style=for-the-badge&logo=github&logoColor=white" alt="CodeQL Verified" /></a>
+  <a href="https://github.com/OpenEdCore-Technologies"><img src="https://img.shields.io/badge/Architecture-Multi--Tenant_Cloud-8b5cf6?style=for-the-badge&logo=swift&logoColor=white" alt="Multi Tenant" /></a>
 </p>
 
 ---
@@ -63,9 +63,9 @@ graph TD
 
 | Repository | Role & Stack | Key Features | CI/CD & Security |
 | :--- | :--- | :--- | :--- |
-| [**`OpenEdCore`**](https://github.com/OpenEdCore/OpenEdCore) | **High-Concurrency Backend API**<br/>`Swift 6` • `Vapor 4` • `PostgreSQL` | Multi-tenant tenant resolution, academic scheduling, gate security, attendance verification | ![CI](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square) ![CodeQL](https://img.shields.io/badge/CodeQL-Passing-blue?style=flat-square) |
-| [**`opened-school-web`**](https://github.com/OpenEdCore/opened-school-web) | **Administrative Web Portal**<br/>`Next.js 16` • `React 19` • `TypeScript` | Institutional analytics, admissions funnel, student rosters, real-time timetable matrix | ![CI](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square) ![CodeQL](https://img.shields.io/badge/CodeQL-Passing-blue?style=flat-square) |
-| [**`openedschool-mobile`**](https://github.com/OpenEdCore/openedschool-mobile) | **Native iOS & Android Client**<br/>`SwiftUI` • `Skip Tools` • `Jetpack Compose` | Single Swift codebase transpiling to native Android Jetpack Compose, offline-first timetable | ![CI](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square) ![CodeQL](https://img.shields.io/badge/CodeQL-Passing-blue?style=flat-square) |
+| [**`OpenEdCore`**](https://github.com/OpenEdCore-Technologies/OpenEdCore) | **High-Concurrency Backend API**<br/>`Swift 6` • `Vapor 4` • `PostgreSQL` | Multi-tenant tenant resolution, academic scheduling, gate security, attendance verification | ![CI](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square) ![CodeQL](https://img.shields.io/badge/CodeQL-Passing-blue?style=flat-square) |
+| [**`opened-school-web`**](https://github.com/OpenEdCore-Technologies/opened-school-web) | **Administrative Web Portal**<br/>`Next.js 16` • `React 19` • `TypeScript` | Institutional analytics, admissions funnel, student rosters, real-time timetable matrix | ![CI](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square) ![CodeQL](https://img.shields.io/badge/CodeQL-Passing-blue?style=flat-square) |
+| [**`openedschool-mobile`**](https://github.com/OpenEdCore-Technologies/openedschool-mobile) | **Native iOS & Android Client**<br/>`SwiftUI` • `Skip Tools` • `Jetpack Compose` | Single Swift codebase transpiling to native Android Jetpack Compose, offline-first timetable | ![CI](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square) ![CodeQL](https://img.shields.io/badge/CodeQL-Passing-blue?style=flat-square) |
 
 ---
 
@@ -101,5 +101,5 @@ graph TD
 ---
 
 <p align="center">
-  <sub>Built with precision for the future of education • © 2026 OpenEdCore Platform</sub>
+  <sub>Built with precision for the future of education • © 2026 OpenEdCore Technologies</sub>
 </p>
