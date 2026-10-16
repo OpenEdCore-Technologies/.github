@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>The Next-Generation, Enterprise-Grade School & University Operating System</strong>
+  <strong>The Full-Stack Next-Generation School & College Management Ecosystem</strong><br/>
+  <sub>Powered by Vapor Swift Server & Mobile-First Multiplatform Tech</sub>
 </p>
 
 <p align="center">
