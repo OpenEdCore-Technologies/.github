@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OpenEdCore-Technologies/.github/main/assets/banner.jpg" alt="OpenEdCore Technologies Ecosystem Banner" width="100%" style="border-radius: 12px;" />
+  <img width="1600" height="900" alt="opened-readme-banner-1600x900" src="https://github.com/user-attachments/assets/cd900ef2-8c01-4be7-ba6f-b5a0e3769bb4" />
 </p>
 
 <p align="center">
